@@ -293,7 +293,7 @@ onUnmounted(() => {
             </svg>
           </div>
           <p class="text-sm font-semibold text-slate-500 dark:text-white/30 mb-1">还没有账号</p>
-          <p class="text-xs text-slate-400 dark:text-white/20">点击右下角 <strong>+</strong> 开始添加</p>
+          <p class="text-xs text-slate-400 dark:text-white/20">点击右上角 <strong>+</strong> 开始添加</p>
         </div>
 
         <!-- 列表 -->

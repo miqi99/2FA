@@ -57,7 +57,7 @@ async function submit() {
               <input
                 v-model="name"
                 type="text"
-                placeholder="例如：Binance"
+                placeholder="例如：KAST111"
                 @keydown.enter="submit"
                 class="w-full h-11 px-4 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:border-indigo-400 dark:focus:border-indigo-500 transition text-sm"
               />
